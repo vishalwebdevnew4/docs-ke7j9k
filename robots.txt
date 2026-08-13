@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-ze4d37.juragan89.online/sitemap.xml
